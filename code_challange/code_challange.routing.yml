@@ -1,0 +1,7 @@
+code_challange.welcome:
+  path: '/challange-page'
+  defaults:
+    _controller: '\Drupal\code_challange\Controller\ChallengesController::imagine'
+    _title: 'welcome to challenge'
+  requirements:
+    _permission: 'access content'

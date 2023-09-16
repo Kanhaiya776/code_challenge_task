@@ -1,0 +1,8 @@
+code_challanges:
+  js:
+    js/code_challange.js: {}
+  css:
+   theme:
+      css/code_challange.css: { minified: true }
+  dependencies:
+    - core/jquery

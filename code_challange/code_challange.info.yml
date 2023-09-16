@@ -1,0 +1,5 @@
+name: code challange
+description: This is code challange module to get vehicle details
+type: module
+core_version_requirement: ^9
+package: custom

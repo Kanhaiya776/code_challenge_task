@@ -1,0 +1,22 @@
+form#code-challange-form {
+    display: flex;
+}
+
+div#my-custom-markup {
+    max-width: 341px;
+    font-size: 10px;
+}
+
+.js-form-item.form-item.js-form-type-select.form-item-veh-year.js-form-item-veh-year.form-no-label {
+    margin-left: 50px;
+    margin-right: 34px;
+}
+
+.js-form-item.form-item.js-form-type-select.form-item-veh-make.js-form-item-veh-make.form-no-label {
+    margin-right: 30px;
+}
+
+select#edit-veh-year , select#edit-veh-make ,select#edit-veh-model , select#model-field-wrapper,.js-form-item-veh-model .form-select{
+    height: 50px;
+    width: 270px;
+}
